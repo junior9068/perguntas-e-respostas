@@ -1,0 +1,23 @@
+{
+  "name": "perguntas-e-respostas",
+  "version": "1.0.0",
+  "description": "Plataforma de perguntas e respostas para aplicar conhecimentos do curso de Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junior9068/perguntas-e-respostas.git"
+  },
+  "author": "Edilson Junior",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junior9068/perguntas-e-respostas/issues"
+  },
+  "homepage": "https://github.com/junior9068/perguntas-e-respostas#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
